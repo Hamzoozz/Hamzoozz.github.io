@@ -1,0 +1,81 @@
+body {
+  font: sans-serif;
+  line-height: 1.8;
+  color: #f5f6f7;  
+  font-size: 20px; 
+}
+h1{font-size: 80px;}
+h3 {font-size: 60px;}
+h2{font-size: 15px;}
+h4{font-size: 40px;}
+p {font-size: 30px;}
+.margin {margin-bottom: 45px;}
+.bg-1 { 
+  background-image: url("starss.jpg");
+  color: #ffffff;
+}
+footer{
+  font-size: 12px;
+}
+.bg-2 { 
+  background-image: url("city.jpeg");
+  color: #ffffff;
+  width: 100%; 
+  background-repeat:no-repeat;
+  background-size:cover;
+  background-position:center;
+
+}
+.bg-3{
+  background-color: #000000; /* Dark Blue */
+  color: #ffffff;
+}
+.bg-4 { 
+  background-image: url("purple.jpeg");
+  background-repeat:no-repeat;
+  background-size:cover;
+  background-position:center;
+}
+.bg-5 { 
+  background-color: #000000; /* Black Gray */
+  color: #fff;
+}
+.container-fluid {
+  padding-top: 70px;
+  padding-bottom: 70px;
+}
+.navbar {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  border: 0;
+  border-radius: 0;
+  margin-bottom: 0;
+  font-size: 12px;
+  letter-spacing: 5px;
+}
+.navbar-nav  li a:hover {
+  color: #2cbc9f !important;
+}
+      table, th, td {
+      border: 1px solid rgb(0, 0, 0);
+      border-collapse: collapse;
+      color: #ffffff;
+      height: 80px;
+      width: 100px;
+      text-align: center;
+      border:1px solid black;
+      margin-left: auto;
+      margin-right: auto;
+      vertical-align: auto;
+      }
+      th{
+          background-color: rgb(47, 37, 115)
+          
+      }
+       td{
+          background-color: hwb(252 69% 18%)
+      }
+      ul{
+        text-align:justify;
+      }
+
